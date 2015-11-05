@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jkovacs-dev.github.io
+title: Cooking with Rocket Fuel
+tagline: CRM, JavaScript, and whatever else strikes my fancy!
+description: Cooking with Rocket Fuel is my meager attempt to document some of the cooler or more experimental work I've done in the hopes that it may prove useful to someone or spark a good discussion about how to do it better.  <br /><br />By day, I work as a Microsoft Dynamics CRM developer, so expect to find a bunch of stuff in that vein.  I also enjoy doing strange and wonderful things with JavaScript and whatever else interests me at the...Oooh! SQUIRREL! 
+paginate: 5
